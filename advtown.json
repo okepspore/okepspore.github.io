@@ -1,10 +1,10 @@
 {
     "type": "cubemap",
     "cubeMap": [
-        "https://i.imgur.com/EwBMMNU.jpg",
         "https://i.imgur.com/blJyyR2.jpg",
-        "https://i.imgur.com/1WANytG.jpg",
         "https://i.imgur.com/CZxV7pb.jpg",
+        "https://i.imgur.com/1WANytG.jpg",
+        "https://i.imgur.com/EwBMMNU.jpg",
         "https://i.imgur.com/Vunxzml.jpg",
         "https://i.imgur.com/Dm4FdDR.jpg"
     ]
